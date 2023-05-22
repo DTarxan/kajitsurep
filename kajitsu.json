@@ -1,0 +1,22 @@
+{
+	"META": {
+		"repoName": "Kajitsu Repo",
+		"repoIcon": "https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/56f4ab72da9c2f03f9dbbe9f42aab933.png"
+	},
+	"Tweaked": [{
+		"name": "TikTok LRD",
+		"version": "29.5.0",
+		"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/TikTok.LRD.29.5.0.ipa",
+		"category": "Not available in Russia",
+		"description": "TikTok в России",
+		"bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically"
+	}, {
+		"name": "Tinkoff",
+		"version": "1.0.0",
+		"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/Tinkoff.ipa",
+		"category": "Not available in Russia",
+		"description": "Тинькофф Банк"
+	}
+	]
+}
