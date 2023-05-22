@@ -12,17 +12,23 @@
 		"bundleID": "com.zhiliaoapp.musically",
 		"appstore": "com.zhiliaoapp.musically"
 	}, {
-		"name": "Tinkoff",
+		"name": "Тинькофф",
 		"version": "1.0.0",
 		"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/Tinkoff.ipa",
 		"category": "Not available in Russia",
 		"description": "Тинькофф Банк"
 	}, {
-		"name": "Sberbank",
+		"name": "Сбербанк",
 		"version": "12.5.0",
 		"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/Sberbank.ipa",
 		"category": "Not available in Russia",
-		"description": "Сбербанк Банк"
+		"description": "Сбербанк"
+	}, {
+		"name": "МТС Банк",
+		"version": "12.5.0",
+		"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/MTS.Bank.ipa",
+		"category": "Not available in Russia",
+		"description": "МТС Банк"
 	}
 	]
 }
