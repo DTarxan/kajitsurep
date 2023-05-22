@@ -25,7 +25,7 @@
 		"description": "Сбербанк"
 	}, {
 		"name": "МТС Банк",
-		"version": "12.5.0",
+		"version": "1.62.0",
 		"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/MTS.Bank.ipa",
 		"category": "Not available in Russia",
 		"description": "МТС Банк"
