@@ -1,7 +1,7 @@
 {
 "META": {
 "repoName": "[Beta] Kajitsu Repo",
-"repoIcon": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/ICONS/Repo.Photo.png"
+"repoIcon": "https://cdn4.telegram-cdn.org/file/aBFKxdSrvAQXRuKa8Y6Lv2dgrjct_4Q12Zv8NKctPvqEjLgN2lRzSE4rDNeuaVKR6lb3EWdEYkS4hJ4CijlZKx53d1QpwoVmqZ4bQh7t6p9fsxDFdjdUF9-_-OKe6xOriPOytzlFHqrWAgvmnhedqjc3ScWdFd8TEr5jPwYXmLzebKTtnhjTiPS6GU2l7GhYipHlyNxWiBzxOjqedCRPVlItG6CvtOtcfo1F_vrDn9GC2y6pAThPPvPcPraoFsTqGquyNaMGP555ExGN0qJy_OFdfxEmgLwlhKx6C72ZpDHJ0v9Ttp874rZIM2o7ymVrawlqQJVZG0zRlBRf939SpA.jpg"
 },
 "Tweaked": [{
 "name": "TikTok LRD",
@@ -26,7 +26,7 @@
 }, {
 "name": "МТС Банк",
 "version": "1.62.0",
-"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/MTS.Bank.ipa",
+"down": "https://s128vlx.storage.yandex.net/rdisk/164fccbdb0d1b3156e27fa23cef5a69c36890d703c724ed5151aea40be2a93d3/646ca35b/vl51Q2EJoG-Npgf8SP6onCKvmSLvhp1cPrqP1_uekDSDwkYHHVH1Ebe2H73ROmh80gPbnKMHTazdNye3jc4Jhw==?uid=1740677169&filename=MTS%20Bank.ipa&disposition=attachment&hash=&limit=0&content_type=application%2Fx-ios-app&owner_uid=1740677169&fsize=534851584&hid=ceca5df84104172ef1e405515eab1fe0&media_type=unknown&tknv=v2&etag=3c6f5dce1a55ca5560f2ff80a41cd235&rtoken=PSEOucOX6qTd&force_default=yes&ycrid=na-148c7e2d18d7f9470d3a43903c91033b-downloader21h&ts=5fc5aaf9b4cc0&s=1094984853ae0ecff6f43a8a52140127c08784b608be2c403a87da817b8907dd&pb=U2FsdGVkX1_OzsDM1LBdTp3JNawKK9xKy6gSsjyQLL3uH_4u8GZcv14l4lu3WUgnvdwT_ush16ymxQV00yD8Z_bO9JmWN7JrY9p4ziz_8ks",
 "icon": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/ICONS/MTS.Bank.png",
 "category": "Банк",
 "description": "Мобильное приложение МТС Банк онлайн"
@@ -40,14 +40,14 @@
 }, {
 "name": "Открытия",
 "version": "1.0.0",
-"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/Otkritie.ipa",
+"down": "https://s92vlx.storage.yandex.net/rdisk/2caeb8fd9c43de6729045c43304ac1ab29c22df28b641e00c1edea669fd550d8/646ca386/HlTO_ULCKi-egrxYpaDXemtc5LR8OP23kv248JAn5m_D65_5lUuOvWwaXikJVB6-xhWxTGqaMgDbYVwWn4AkzQ==?uid=1740677169&filename=Otkritie.ipa&disposition=attachment&hash=&limit=0&content_type=application%2Fzip&owner_uid=1740677169&fsize=401515411&hid=86b14de9b4937f47830b5088187b2b4f&media_type=compressed&tknv=v2&etag=790aa0e0131cf616d7adbcfc8b4e27b8&rtoken=LsfvlqiTEAVi&force_default=yes&ycrid=na-1aa1e6b3997317d961db228a5fd0aa7c-downloader21h&ts=5fc5ab22b6d80&s=edac8636e6f7333fff3c4a24b3d4964ca9e708cee94b035dd6a6029e21a21e00&pb=U2FsdGVkX19fCQPU9GvDifhkpjAtRtiIBRrRiJROEIcvXuE_BMTyWYOhFdxjdyi8U5R2icGULm7CxnTxPwYZ9KGEdi9N6OzAxA8L4bhW5qU",
 "icon": "https://static.rustore.ru/5f136efb-78f1-42bf-adfb-a33d68b04d37",
 "category": "Банк",
 "description": ""
  }, {
 "name": "СБОЛ",
 "version": "1.0.0",
-"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/SBOL.ipa",
+"down": "https://s710sas.storage.yandex.net/rdisk/b1b9fad0f11544ad525c866090ed6de22dcf70784f5d0323e94849c7d09ba286/646ca376/vl51Q2EJoG-Npgf8SP6onMH8ftzVpJbcpCC7XZkezSHRi7zNiHa1WwdyAwbkSjqr5DAHciJQcQLrOyxNV2DO2g==?uid=1740677169&filename=SBOL.ipa&disposition=attachment&hash=&limit=0&content_type=application%2Fzip&owner_uid=1740677169&fsize=382044407&hid=ad044c38fefe350d67b54d8f66d9a308&media_type=compressed&tknv=v2&etag=fc2f7523075a521f207bd0c25c1fcffd&rtoken=2ktjXxMQw2V1&force_default=yes&ycrid=na-1a57c00ec5e7f6db3571cee29807859f-downloader21h&ts=5fc5ab1374980&s=ebfaef2e6143a73fbbb2ed3a8aed649150cb79c13d7d798d7abe19eef3e9fbf0&pb=U2FsdGVkX19WDJH9NvMIuo0NRwE66WDPmvmm85ExrcVAp0hsU2NASje07SFOYEBcQG8FqeZBwqsBcyCJcw7seXWQycxTQrflTiO46m9_oOk",
 "icon": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/ICONS/Sberbank.png",
 "category": "Банк",
 "changelog": "По факту другое приложение если первое не работает",
