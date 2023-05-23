@@ -1,0 +1,104 @@
+{
+"META": {
+"repoName": "[Beta] Kajitsu Repo",
+"repoIcon": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/ICONS/Repo.Photo.png"
+},
+"Tweaked": [{
+"name": "TikTok LRD",
+"version": "29.5.0",
+"down": "https://s332vlx.storage.yandex.net/rdisk/4ab0bbd4d9bcf2a0c091d44102078b5ddc0ef9fb09a90f715dee226fdd5ba31c/646ca01e/oDvnvxrfBMjCusNJMs6MrwC5FI_IHaJMaJ5Sn_h452X3wJTbW99wE0aspGfsZWGlvLvn6M4huujiZ8Th5AgsHQ==?uid=1740677169&filename=TikTok%20LRD%2029.5.0.ipa&disposition=attachment&hash=&limit=0&content_type=application%2Fx-ios-app&owner_uid=1740677169&fsize=218916048&hid=9df036236bbcd9e6e89892db9483c5c4&media_type=unknown&tknv=v2&etag=da33fffa89b32ecb517c227088d66439&rtoken=Qx2EiGzOsOwv&force_default=yes&ycrid=na-aa4fc642aa894ac2d550c97e7e34353a-downloader19e&ts=5fc5a7e31c380&s=1b046196e41f923f7709d61e8b9a6e4f30e0b846cca1cbb3e49440e814fca61c&pb=U2FsdGVkX1-T6aGWkv9zH9yN9nAWUt0sFX51FTQ5ebA7lH2A3mpYE1pL_I9hJmy0cNt82COon-tzSgOTmszRwNgv0LQ_zQlbv02X_E_K524",
+"category": "Не работает / Недоступно в РФ",
+"description": "TikTok",
+"bundleID": "com.zhiliaoapp.musically",
+"appstore": "com.zhiliaoapp.musically"
+}, {
+"name": "Тинькофф",
+"version": "1.0.0",
+"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/Tinkoff.ipa",
+"icon": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/ICONS/Tinkoff.png",
+"category": "Банк",
+"description": "Тинькофф",
+"screenshots" : [
+        "https://static.rustore.ru/06990d67-6f8c-4564-82b1-46c8194f2ed1",
+        "https://static.rustore.ru/1089d097-bf1b-4ae5-9f92-be3706bb2948",
+        "https://static.rustore.ru/271768fc-3a2c-4978-b0c4-a4feca49a4af",
+        "https://static.rustore.ru/6ecb1337-0590-4cc0-867d-f0343f1425f5",
+        "https://static.rustore.ru/84136514-d141-44f8-ac82-820411b62b32",
+        "https://static.rustore.ru/e483b166-2a68-4491-acc6-1fabf5f4b340",
+        "https://static.rustore.ru/ee198f9a-7722-42e2-852d-3bcd3153e019",
+        "https://static.rustore.ru/ee95be06-6576-4af1-a2f7-e4c70058b26d"
+  ]
+}, {
+"name": "СберБанк Онлайн",
+"version": "1.0.0",
+"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/Sberbank.ipa",
+"icon": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/ICONS/Sberbank.png",
+"category": "Банк",
+"description": "СберБанк Онлайн",
+"screenshots": [
+        "https://static.rustore.ru/apk/462271/content/SCREENSHOT/89cb47f6-059f-449f-8a5b-655e1bad44c8.png",
+        "https://static.rustore.ru/apk/462271/content/SCREENSHOT/f3d3026f-a0c6-4bc1-b9d2-af9a7e1b95d6.png",
+        "https://static.rustore.ru/apk/462271/content/SCREENSHOT/1396b81d-35a1-4203-8f37-ddeb0012f5d2.png",
+        "https://static.rustore.ru/apk/462271/content/SCREENSHOT/2498901b-850b-4c0d-9a3a-d32e39ebe5e4.png"
+        ]
+}, {
+"name": "МТС Банк",
+"version": "1.62.0",
+"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/MTS.Bank.ipa",
+"icon": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/ICONS/MTS.Bank.png",
+"category": "Банк",
+"description": "Мобильное приложение МТС Банк онлайн",
+"screenshots": [
+        "https://static.rustore.ru/apk/1864370111/content/SCREENSHOT/f8938dbb-d794-4f4f-8c29-9b39eb4745bd.png",
+        "https://static.rustore.ru/apk/1864370111/content/SCREENSHOT/beb1944d-aab7-4822-a251-744759b7555c.png",
+        "https://static.rustore.ru/apk/1864370111/content/SCREENSHOT/13656e80-1387-44f9-b30c-90d1fd37e8ab.png",
+        "https://static.rustore.ru/apk/1864370111/content/SCREENSHOT/21aaf1ad-45ae-4a44-9132-07cb822cd637.png"
+        ]
+}, {
+"name": "Альфа Банк",
+"version": "1.0.0",
+"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/Alfabank.ipa",
+"icon": "https://static.rustore.ru/afb07f02-5399-4f45-a366-e49a7b3420ad",
+"category": "Банк", 
+"description": "Лучший мобильный банк три года подряд по версии Markswebb Мобильное приложение Альфа-Банка",
+"screenshots": [
+        "https://static.rustore.ru/03335d81-82af-4651-a38a-f3d47c6a3172",
+        "https://static.rustore.ru/1d120365-e132-4193-8316-9a101026483f",
+        "https://static.rustore.ru/4416d066-66ef-4053-8650-9d70bb26ed64",
+        "https://static.rustore.ru/6cc0b489-9309-4e54-9767-fb5af5345fdb",
+        "https://static.rustore.ru/ca8244b7-1abb-4951-ad63-2b41afb97ca0"
+        ]
+}, {
+"name": "Открытия",
+"version": "1.0.0",
+"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/Otkritie.ipa",
+"icon": "https://static.rustore.ru/5f136efb-78f1-42bf-adfb-a33d68b04d37",
+"category": "Банк",
+"description": "",
+"screenshots": [
+        "https://static.rustore.ru/0d1d3d36-ad5d-4434-80c2-353b35650829",
+        "https://static.rustore.ru/17cc1d78-d8fc-4524-a4a5-1cdf885d85fd",
+        "https://static.rustore.ru/43ce7a48-8f69-437d-a8d1-10e8385afa14",
+        "https://static.rustore.ru/7c2b5708-9365-4b08-ab3f-5b2624d25865",
+        "https://static.rustore.ru/832dc418-4cea-424a-8a0c-06200695abe0",
+        "https://static.rustore.ru/89b6407f-a8aa-4755-a125-19666958c600",
+        "https://static.rustore.ru/8f8bba62-8146-4576-bc54-22bb95b088fc",
+        "https://static.rustore.ru/b9107b18-59c4-4080-9f19-ca1db18eb83b"
+        ]
+ }, {
+"name": "СБОЛ",
+"version": "1.0.0",
+"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/SBOL.ipa",
+"icon": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/ICONS/Sberbank.png",
+"category": "Банк",
+"changelog": "По факту другое приложение если первое не работает",
+"description": "СберБанк Онлайн",
+"screenshots": [
+        "https://static.rustore.ru/apk/462271/content/SCREENSHOT/89cb47f6-059f-449f-8a5b-655e1bad44c8.png",
+        "https://static.rustore.ru/apk/462271/content/SCREENSHOT/f3d3026f-a0c6-4bc1-b9d2-af9a7e1b95d6.png",
+        "https://static.rustore.ru/apk/462271/content/SCREENSHOT/1396b81d-35a1-4203-8f37-ddeb0012f5d2.png",
+        "https://static.rustore.ru/apk/462271/content/SCREENSHOT/2498901b-850b-4c0d-9a3a-d32e39ebe5e4.png"
+        ]
+}
+]
+}
