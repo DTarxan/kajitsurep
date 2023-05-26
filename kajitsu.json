@@ -12,6 +12,11 @@
 "bundleID": "com.zhiliaoapp.musically",
 "appstore": "com.zhiliaoapp.musically"
 }, {
+"name": "Nicegram",
+"version": "1.2.6",
+"down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/Nicegram.1.2.6.ipa",
+"category": "Hacked"
+}, {
 "name": "TikTok Dark",
 "version": "29.6.0",
 "down": "https://github.com/DTarxan/tiktokandmoreforscartlet/releases/download/IPA/TikTok.Dark.29.6.0.ipa",
